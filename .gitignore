@@ -1,0 +1,5 @@
+# .gitignore
+serviceAccountKey.json
+.env             # Se você também tiver um .env
+
+# ...outros arquivos/pastas a ignorar
